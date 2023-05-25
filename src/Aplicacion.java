@@ -1,3 +1,7 @@
+/**
+ * @author Jose Gálvez Gómez
+ */
+
 public class Aplicacion {
 
 	/**
@@ -19,3 +23,4 @@ public class Aplicacion {
 	}
 
 }
+
