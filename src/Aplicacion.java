@@ -11,7 +11,7 @@ public class Aplicacion {
 	 * @return devuelve el resultado del factorial.
 	 */
 
-	public int calcularFactorial(int numero) {
+	public static int calcularFactorial(int numero) {
 		int resultadoFactorial = numero;
 
 		for (int i = numero - 1; i >= 1; i--) {
